@@ -1,4 +1,4 @@
-### Hi there I'm Seungho👋
+### Hi there I'm Seungho, I wanna be a backend developer👋
 
 - 🌱 I’m currently learning : Java Spring Boot, Node.js, Vue.js
 - 📫 How to reach me: seunghoking1@naver.com
